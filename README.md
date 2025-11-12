@@ -1,4 +1,11 @@
-## Hi there 👋
+# Docent d'informàtica de la formació professional per a l'ocupació i formació contínua
+
+## Formacions que he impartir en la formació professional per a l'ocupació
+- HTML 5 i CSS 3 (IFCM036PO)
+
+## Formacions que he impartir en la formació contínua
+- ITS Databases - Introducció a las bases de dades (FC01_IFCT177_202259)
+- ITS Python - Introducció a la programació en Python (FC01_IFCT182_202259)
 
 <!--
 **docentinformatica/docentinformatica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
