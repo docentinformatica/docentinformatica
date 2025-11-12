@@ -1,10 +1,10 @@
-# Docent d'informàtica de la formació professional per a l'ocupació i formació contínua
+# Docent d'informàtica de la Formació Professional per a l'Ocupació i Formació Contínua 👨🏽‍🏫🧑🏽‍💻
 
-## Formacions que he impartir en la formació professional per a l'ocupació
+## Formacions que he impartir en la Formació Professional per a l'Ocupació
 - HTML 5 i CSS 3 (IFCM036PO)
 
-## Formacions que he impartir en la formació contínua
-- ITS Databases - Introducció a las bases de dades (FC01_IFCT177_202259)
+## Formacions que he impartir en la Formació Contínua
+- ITS Databases - Introducció a les bases de dades (FC01_IFCT177_202259)
 - ITS Python - Introducció a la programació en Python (FC01_IFCT182_202259)
 
 <!--
